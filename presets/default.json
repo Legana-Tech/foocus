@@ -45,14 +45,14 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "babesByStableYogi_ponyV4VAEFix": "https://huggingface.co/pablox946/babes_model/resolve/main/babesByStableYogi_ponyV4VAEFix.safetensors"
+        "babesByStableYogi_ponyV4VAEFix.safetensors": "https://huggingface.co/pablox946/babes_model/resolve/main/babesByStableYogi_ponyV4VAEFix.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "PerfectEyesXL": "https://huggingface.co/pablox946/babes_model/resolve/main/PerfectEyesXL.safetensors",
-        "add-detail": "https://huggingface.co/pablox946/babes_model/resolve/main/add-detail-xl.safetensors",
-        "real-humans": "https://huggingface.co/pablox946/babes_model/resolve/main/real-humans-PublicPrompts.safetensors"
+        "PerfectEyesXL.safetensors": "https://huggingface.co/pablox946/babes_model/resolve/main/PerfectEyesXL.safetensors",
+        "add-detail.safetensors": "https://huggingface.co/pablox946/babes_model/resolve/main/add-detail-xl.safetensors",
+        "real-humans.safetensors": "https://huggingface.co/pablox946/babes_model/resolve/main/real-humans-PublicPrompts.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
