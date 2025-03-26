@@ -45,9 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "babesByStableYogi_ponyV4VAEFix": "https://huggingface.co/pablox946/babes_model/resolve/main/babesByStableYogi_ponyV4VAEFix.safetensors",
-        "epicrealismXL": "https://huggingface.co/pablox946/babes_model/resolve/main/epicrealismXL_vxviLastfameRealism.safetensors",
-        "realismByStableYogi": "https://huggingface.co/pablox946/babes_model/resolve/main/realismByStableYogi_ponyV3VAE.safetensors"
+        "babesByStableYogi_ponyV4VAEFix": "https://huggingface.co/pablox946/babes_model/resolve/main/babesByStableYogi_ponyV4VAEFix.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
